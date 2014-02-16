@@ -1,0 +1,11 @@
+{
+    "me": {
+        "email": "my@email.com"
+    },
+
+    "gmail": {
+        "username": "myuser@gmail.com",
+        "password": "mypassword"
+    }
+
+}

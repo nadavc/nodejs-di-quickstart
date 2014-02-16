@@ -1,0 +1,6 @@
+.DS_Store
+*.iml
+node_modules
+.idea
+.openshift
+config.json

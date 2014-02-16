@@ -1,0 +1,21 @@
+{
+    "name": "smartass",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "3.4.7",
+        "jade": "*",
+        "request": "*",
+        "nodemailer": "0.5.15",
+        "selenium-webdriver": "*",
+        "mongodb": "*",
+        "node-schedule": "0.1.13",
+        "dateformat": "*",
+        "dependable": "*",
+        "node-uuid": "*",
+        "mail-listener2": "0.1.0"
+    }
+}
